@@ -1,0 +1,32 @@
+[
+    {
+        "uid": 1,
+        "firstName": "Ali",
+        "lastName": "Mahdavi"
+    },
+    {
+        "uid": 2,
+        "firstName": "Reza",
+        "lastName": "Shahmardan"
+    },
+    {
+        "uid": 3,
+        "firstName": "Hassan",
+        "lastName": "Qolami"
+    },
+    {
+        "uid": 4,
+        "firstName": "Morteza",
+        "lastName": "Hamedani"
+    },
+    {
+        "uid": 5,
+        "firstName": "Sina",
+        "lastName": "Hejazi"
+    },
+    {
+        "uid": 6,
+        "firstName": "Hadi",
+        "lastName": "Sadri"
+    }
+]
